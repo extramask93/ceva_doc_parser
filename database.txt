@@ -1,0 +1,56 @@
+rA	|A	|0~63
+rAp	|p	|l,h|A	|0~63
+rA0	|A0	|0~63
+rA1	|A1	|0~63
+rB	|B	|0~63
+rBp	|p	|l,h|B	|0~63	
+rB0	|B0	|0~63
+rB1	|B1	|0~63
+rC	|C	|0~63
+rCp	|p	|l,h|C	|0~63	
+rD	|D	|0~63
+rDp	|p	|l,h|D	|0~63	
+rZ	|Z	|0~63
+rZp	|p	|l,h|Z	|0~63	
+rZ0	|Z0	|0~63
+rZ0p	|p	|l,h|Z0	|0~63	
+rZ1	|Z1	|0~63
+rZ1p	|p	|l,h|Z1	|0~63	
+rY	|Y	|0~63
+rYp	|p	|l,h|Y	|0~63	
+rY0	|Y0	|0~63
+rY0p	|p	|l,h|Y0	|0~63	
+rY1	|Y1	|0~63
+rY1p	|p	|l,h|Y1	|0~63	
+rV	|V	|0~63
+rVp	|p	|l,h|V	|0~63	
+rV0	|V0	|0~63
+rV0p	|p	|l,h|V0	|0~63	
+rV1	|V1	|0~63
+rV1p	|p	|l,h|V1	|0~63	
+rU	|U	|0~63
+rUp	|p	|l,h|U	|0~63	
+rU0	|U0	|0~63
+rU0p	|p	|l,h|U0	|0~63	
+rU1	|U1	|0~63
+rU1p	|p	|l,h|U1	|0~63	
+rN	|N	|0~63
+rsA	|A	|0~15
+rsT	|T	|0~15
+rsZ	|Z	|0~15
+rsN	|N	|0~15
+sX	|X	|28~35
+sZ	|Z	|28~35
+rM	|M	|0~31
+?prX	|X	|0~15
+?prP	|P	|0~15
+&prX	|X	|0~15
+prZ	|Z	|0~15
+prY	|Y	|0~15
+prU	|U	|0~15
+prsZ	|Z	|0~3
+prsY	|Y	|0,1,2,15
+prsX	|X	|0,15
+prsbX	|X	|0,1
+spA		|A | 
+spZ		|Z |
